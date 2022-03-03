@@ -1,4 +1,4 @@
-# DataScience and Analytics portfolio
+# DataScience and Analytics Portfolio
 This repository contains projects and visualizations created from the Data Science & Analytics program with Kansas State University.
 
 ## Introductory course for Data Science and Data Analytics
