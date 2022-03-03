@@ -3,7 +3,7 @@ This repository contains projects and visualizations created from the Data Scien
 
 ## Introductory course for Data Science and Data Analytics
 
-## Eight Chapters in this Introductory course
+## Eight Chapters in this Introductory Course
 
 ## 1. Introduction
 ## 2. Computing Primer
